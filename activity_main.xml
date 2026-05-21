@@ -8,12 +8,12 @@
     android:orientation="vertical"
     android:padding="16dp"
     tools:context=".MainActivity"
-    android:background="@color/verdin">
+    android:background="@color/verdeescuro">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="LISTA DE COMPRAS"
+        android:text="APLICATIVO DE LISTA DE COMPRAS"
         android:textStyle="bold"
         android:textAlignment="center"
         android:textSize="20dp"/>
