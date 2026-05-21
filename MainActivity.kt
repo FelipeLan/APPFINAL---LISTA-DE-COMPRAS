@@ -1,4 +1,4 @@
-package com.example.applistacompras
+package com.example.appfinallistacompras
 
 import android.os.Bundle
 import android.view.View
@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             produtosAdapter.add(produto)
                 txtProduto.text.clear()
             } else {
-                txtProduto.error = "Coloque um produto"
+                txtProduto.error = "insira um produto"
             }
         }
 
